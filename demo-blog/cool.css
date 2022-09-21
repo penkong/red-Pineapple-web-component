@@ -1,0 +1,28 @@
+#wrap {
+  width: 100%;
+  max-width: 1000px;
+  margin: auto;
+}
+
+header {
+  text-align: center;
+  border-bottom: 3px solid #eee;
+  margin-bottom: 20px;
+}
+
+aside {
+  float: left;
+  width: 300px;
+  box-sizing: border-box;
+  padding: 0 20px;
+  position: fixed;
+}
+
+section {
+  padding: 0 20px;
+  float: right;
+  width: 700px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+}
